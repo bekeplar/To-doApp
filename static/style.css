@@ -1,6 +1,7 @@
 #main {
     margin: 0;
     padding: 0;
+    background-repeat: none;
     background-position: center;
     font-family: sans-serif;
     background-color: aqua;
@@ -29,6 +30,10 @@
     color: #af7621;
     height: 25px;
     font-size: 16px;
+}
+
+#man{
+    
 }
 
 div {
