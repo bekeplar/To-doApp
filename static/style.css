@@ -44,6 +44,9 @@ a:hover {
 
 }
 
+
+    
+
 .loginbox {
     width: 500px;
     height: 500px;
@@ -87,7 +90,7 @@ a:hover {
 }
 button {
     opacity: 0.5px;
-    padding: 1em;
+    padding: 2em;
     cursor: -webkit-zoom-in;
     border-radius:1em;
     background-color: rgba(201, 160, 201, 0.7);
@@ -104,4 +107,8 @@ button {
     text-decoration: none;
     font-weight: bold;
     
+}
+
+ul {
+    list-style: none;
 }
