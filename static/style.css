@@ -8,6 +8,7 @@ body{
     display: flex;
     flex-wrap: wrap;
 }
+
 a {
     color:black;
     text-decoration: none;
@@ -43,9 +44,6 @@ a:hover {
     
 
 }
-
-
-    
 
 .loginbox {
     width: 500px;
