@@ -88,14 +88,25 @@ a:hover {
     background-color: #41caf4;
     color: red;
 }
+
+
 button {
+    opacity: 0.5px;
+    padding: 10px;
+    cursor: pointer;
+    border-radius:1em;
+    background-color: rgba(201, 160, 201, 0.7);
+    font-family: Arial, Helvetica, sans-serif;
+}  
+
+/*button {
     opacity: 0.5px;
     padding: 2em;
     cursor: -webkit-zoom-in;
     border-radius:1em;
     background-color: rgba(201, 160, 201, 0.7);
     font-family: Arial, Helvetica, sans-serif;
-}
+}*/
 
 .board {
     float: right;
