@@ -97,6 +97,7 @@ button {
     border-radius:1em;
     background-color: rgba(201, 160, 201, 0.7);
     font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
 }  
 
 /*button {
