@@ -1,0 +1,57 @@
+body{
+    padding: 0;
+    background-position: center;
+    font-family: sans-serif;
+    background-image:url(../static/books.jpg);
+    background-size: cover;
+    align-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+a {
+    color:black;
+    text-decoration-style: solid;
+}
+
+h2 {
+    align-content: center;
+}
+
+a:active {
+    color:brown;
+    background-color: pink;
+}
+
+
+
+
+.loginbox {
+    width: 500px;
+    height: 500px;
+    background-color:green;
+    color: #ffffff;
+    top: 50%;
+    left: 50%;
+    box-sizing: border-box;
+    margin-left: 27em;
+    padding: 20px;display: flex;
+    flex-wrap: wrap;
+}
+
+}
+
+.loginbox input[type="text"], input[type="password"] {
+    border: none;
+    color: blue;
+    height: 25px;
+    font-size: 16px;
+    background-color: blanchedalmond;
+}
+.button:hover {
+    background-color: #41caf4;
+    color: red;
+
+button {
+    opacity: 05;
+    cursor: -webkit-zoom-in;
+}
